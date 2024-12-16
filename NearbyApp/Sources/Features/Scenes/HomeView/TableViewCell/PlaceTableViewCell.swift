@@ -12,6 +12,7 @@ class PlaceTableViewCell: UITableViewCell {
 
     let itemImageView: UIImageView = {
         let imageView = UIImageView()
+        imageView.clipsToBounds = true
         imageView.layer.cornerRadius = 8
         imageView.contentMode = .scaleAspectFill
         imageView.translatesAutoresizingMaskIntoConstraints = false
