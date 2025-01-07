@@ -2,6 +2,12 @@
 
 O Nearby App foi criado durante um evento da Rocketseat para explorar locais próximos com base na sua localização, oferecendo opções como restaurantes, lojas e cinemas.
 
+<div align="center">
+<img src="assets/welcome-view.png" width="300px">
+<img src="assets/home-view.png" width="300px">
+<img src="assets/details-view.png" width="300px">
+</div>
+
 ## Tecnologias Utilizadas
 
 - UIKit com ViewCode
